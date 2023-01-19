@@ -1,6 +1,6 @@
 # portfolioprojects
 This repository will document my portfolio projects henceforth.
-Web scraping is the process of automating the extraction of information from websites. One example of this is scraping the prices of phones from the website Jumia.com.ng. Here is a basic outline of how you might go about web scraping phone prices from Jumia.com.ng:
+Web scraping is the process of automating the extraction of information from websites. 
 
 1. Inspect the website: Before you begin web scraping, you'll need to inspect the website to determine the structure of the pages and identify the specific elements that contain the information you're looking for. In this case, you'll need to locate the page or pages that contain the phone prices.
 
